@@ -19,15 +19,11 @@ public class SpringDocConfiguration {
                 .info(new Info()
                 .title("Challenge Foro Alura Hub")
                 .description("""
-                        Aplicación web que simula un foro, con autenticación JWT,
-                        CRUD de tópicos, creado con Spring Boot 3. 
-                        Incluye asociación de respuestas, búsqueda avanzada 
-                        por palabras clave y elección de respuestas como solución. 
-                        Contraseñas hasheadas con BCrypt.
+                        Aplicación web que simula un foro.
                         """)
                 .contact(new Contact()
-                    .name("Fernando Daniel")
-                    .email("fernando@prueba.com")));
+                    .name("Nahuel B.Miras")
+                    .email("nahuelbmiras@gmail.com")));
     }
 
 
